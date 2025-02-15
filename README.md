@@ -5,6 +5,11 @@ Sobre o projeto
 O OptimusTech é um site institucional responsivo desenvolvido com HTML e CSS. 
 Seu objetivo é fornecer informações detalhadas sobre a empresa, incluindo sua missão, impacto no mercado e oportunidades de emprego, tudo de forma intuitiva e acessível.
 
+![Capa_OptimusTech_14fev2025](https://github.com/user-attachments/assets/0074b1d7-908c-414a-944a-3a70a05faa56)
+
+![Capa_Vagas_14fev2025](https://github.com/user-attachments/assets/73c2ee0d-bbb5-44ce-98bf-06f53c27d615)
+
+
 # Tecnologias utilizadas
 
 ## Este projeto foi construído utilizando:

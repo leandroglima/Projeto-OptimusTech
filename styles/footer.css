@@ -1,0 +1,55 @@
+.container-candidatura {
+    display: flex;
+    flex-direction: column;
+    background: var(--cor-rodape);
+    padding: 3em;
+}
+
+.candidatura {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5em;
+}
+
+.titulo__candidatura {
+    font-size: 2.2em;
+    font-weight: 600;
+    color: var(--cor-titulo-lista);
+}
+
+.texto__candidatura {
+    font-size: 1.2em;
+    font-weight: 400;
+    color: var(--cor-texto-lista);
+}
+
+.pesquisa__candidatura {
+    padding: 1em 13em 1em 1em;
+    border-radius: 1em;
+    text-align: left;
+}
+
+.pesquisa__candidatura::placeholder {
+    font-size: 1em;
+    text-align: left;
+    width: 100%;
+
+}
+
+.pesquisa {
+    display: flex;
+    text-align: center;
+    gap: 2em;
+    align-items: center;
+}
+
+
+.botao__candidatura {
+    text-decoration: none;
+    background: var(--cor--btn-border);
+    padding: 0.8em 1em;
+    border-radius: 0.5em;
+    color: var(--cor-botao-cadastrar);
+}

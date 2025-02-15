@@ -1,0 +1,30 @@
+@import url(.//header.css);
+@import url(./main.css);
+@import url(./vaga.css);
+@import url(./footer.css);
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --cor-principal: #667085;
+    --cor--btn-border: #8E2424;
+    --cor--titulo-logo: #3A404E;
+    --cor-botao-cadastrar: #ffff;
+    --cor-lista: #F8FAFC;
+    --cor-border-lista: #8E2424;
+    --cor-titulo-lista: #101828;
+    --cor-texto-lista: #667085;
+    --cor-border-vaga: #D5505033;
+    --cor-rodape: #F9FAFB;
+
+}
+
+body {
+    width: 100vw;
+    font-family: "Inter";
+    font-size: 16px;
+    font-weight: 500;
+}

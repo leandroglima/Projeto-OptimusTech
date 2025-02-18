@@ -1,67 +1,68 @@
-# Projeto-OptimusTech
-Projeto totalmente construído do zero. 
-Sobre o projeto
+# OptimusTech Project  
+Project fully built from scratch.  
 
-O OptimusTech é um site institucional responsivo desenvolvido com HTML e CSS. 
-Seu objetivo é fornecer informações detalhadas sobre a empresa, incluindo sua missão, impacto no mercado e oportunidades de emprego, tudo de forma intuitiva e acessível.
+# About the project  
 
-![Capa_OptimusTech_14fev2025](https://github.com/user-attachments/assets/0074b1d7-908c-414a-944a-3a70a05faa56)
+OptimusTech is a responsive institutional website developed with HTML and CSS.  
+Its goal is to provide detailed information about the company, including its mission, market impact, and job opportunities, all in an intuitive and accessible way.  
 
-![Capa_Vagas_14fev2025](https://github.com/user-attachments/assets/73c2ee0d-bbb5-44ce-98bf-06f53c27d615)
+![Capa_OptimusTech_14fev2025](https://github.com/user-attachments/assets/0074b1d7-908c-414a-944a-3a70a05faa56)  
 
+![Capa_Vagas_14fev2025](https://github.com/user-attachments/assets/73c2ee0d-bbb5-44ce-98bf-06f53c27d615)  
 
-# Tecnologias utilizadas
+# Technologies used  
 
-## Este projeto foi construído utilizando:
+## This project was built using:  
 
-* HTML5: Para estruturação e organização do conteúdo.
+* **HTML5**: For structuring and organizing content.  
 
-*  CSS3: Para estilização, responsividade e aprimoramento da experiência do usuário.
+* **CSS3**: For styling, responsiveness, and enhancing the user experience.  
 
-# Estrutura do projeto
+# Project structure  
 
-## O site é composto por diversas seções:
+## The website consists of several sections:  
 
-¨* Cabeçalho (Header): Contém o logotipo da empresa, menu de navegação e opções de login/cadastro.
+* **Header**: Contains the company logo, navigation menu, and login/sign-up options.  
 
- * Sobre nós: Uma descrição da empresa, destacando por que ela se diferencia no mercado.
+* **About us**: A description of the company, highlighting what makes it stand out in the market.  
 
- * Resultados: Exibição de estatísticas importantes, como quantidade de projetos concluídos, downloads e reviews positivos.
+* **Results**: Displays key statistics, such as the number of completed projects, downloads, and positive reviews.  
 
- * Vagas Abertas: Apresenta as oportunidades de emprego na empresa, separadas por áreas de atuação e com informações sobre salários e tipo de contratação.
+* **Open Positions**: Showcases job opportunities at the company, categorized by field and including salary and contract type information.  
 
- * Depoimentos: Comentários de colaboradores sobre a experiência de trabalhar na empresa.
+* **Testimonials**: Comments from employees about their experience working at the company.  
 
- * Rodapé: Seção que inclui um campo para capturar e-mails de interessados em futuras oportunidades, além de informações de direitos autorais.
+* **Footer**: Section that includes a field for collecting emails from those interested in future opportunities, along with copyright information.  
 
-## Como visualizar o projeto
+## How to view the project  
 
- * Para visualizar este projeto localmente:
+* To view this project locally:  
 
- * Baixe ou clone este repositório para seu computador.
+* Download or clone this repository to your computer.  
 
- * Localize o arquivo index.html dentro da pasta do projeto.
+* Locate the `index.html` file inside the project folder.  
 
- * Abra o arquivo index.html em qualquer navegador web moderno.
+* Open the `index.html` file in any modern web browser.  
 
-## Contribuição
+## Contribution  
 
- Se você deseja contribuir para o projeto, siga estas etapas:
- 
- * Faça um fork do repositório.
+If you want to contribute to the project, follow these steps:  
 
- * Crie um branch para sua melhoria (git checkout -b minha-melhoria).
+* Fork the repository.  
 
- * Faça as alterações e commit (git commit -m 'Melhoria adicionada').
+* Create a branch for your improvement (`git checkout -b my-improvement`).  
 
- * Envie para o branch principal (git push origin minha-melhoria).
+* Make the changes and commit (`git commit -m 'Improvement added'`).  
 
- * Abra um Pull Request para revisão.
+* Push to the main branch (`git push origin my-improvement`).  
 
-## Autor
+* Open a Pull Request for review.  
 
-## Desenvolvido por Leandro.
+## Author  
 
-## Licença
+## Developed by Leandro.  
 
-## Este projeto está licenciado sob a MIT License.
+## License  
+
+## This project is licensed under the MIT License.  
+
